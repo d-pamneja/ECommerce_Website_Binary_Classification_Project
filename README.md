@@ -8,4 +8,4 @@ Assume that you are working in a consultancy company and one of your client is r
 The evaluation metric for this competition is [Mean F1-Score](https://en.wikipedia.org/wiki/F-score). The F1 score, commonly used in information retrieval, measures accuracy using the statistics precision. The F1 metric weights recall and precision equally, and a good retrieval algorithm will maximize both precision and recall simultaneously. Thus, moderately good performance on both will be favored over extremely good performance on one and poor performance on the other. ## Submission Format The file should contain a header and have the following format
 
 ## Model Used
-Here, I have used the Voting Stacking Classifer, which consists of Gradident Boosting Classifier and Perceptron Algorithm. Using that, I have obtained a final score of 0.6454 on the test set. 
+Here, I have used the Voting Stacking Classifer, which consists of Gradident Boosting Classifier and Perceptron Algorithm. Using that, I have obtained a final score of **0.6454** on the test set. 
