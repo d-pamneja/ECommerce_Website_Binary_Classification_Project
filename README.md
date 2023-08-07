@@ -9,3 +9,6 @@ The evaluation metric for this competition is [Mean F1-Score](https://en.wikiped
 
 ## Model Used
 Here, I have used the Voting Stacking Classifer, which consists of Gradident Boosting Classifier and Perceptron Algorithm. Using that, I have obtained a final score of **0.6454** on the test set. 
+
+## Data Confidentiality
+The data has been kept confidential due to it being of a private business, the data has been exclusively shared with the grading authority for this project i.e. Indian Institute of Technology, Madras.
